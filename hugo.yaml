@@ -1,0 +1,14 @@
+---
+baseURL: https://example.org/
+languageCode: en-us
+theme: PaperMod
+title: My New Hugo Site
+---
+buildDrafts: false
+buildExpired: false
+buildFuture: false
+enableRobotsTXT: true
+---
+minify:
+  disableXML: true
+  minifyOutput: true
